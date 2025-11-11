@@ -39,3 +39,6 @@ The app features an AI-assisted UI built with **Streamlit**, and uses **ChatGPT*
    - Built entirely in **Streamlit** for a responsive web interface  
 
 ---
+## 🎥 Live Preview
+
+![App Demo](assets/demo.gif)
